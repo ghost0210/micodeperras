@@ -22,3 +22,5 @@ if PROXY:
 space = {}
 space['az9az999999'] = 0
 space['Ghosthell0210'] = 0
+space['JeffersonBM_01'] = 0
+space['a1234manuel'] = 0
