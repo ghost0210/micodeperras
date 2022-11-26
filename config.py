@@ -1,7 +1,7 @@
 import os
 import ProxyCloud
 
-BOT_TOKEN = '5841971497:AAGvRuJL2-o4LpDj2mao_xuk8Ae_CYWRD-A' #Aqui va el token del bot
+BOT_TOKEN = '5978035065:AAHGO5aH_PQg7xRoIzMQEzCkQ2y_m0ACal8' #Aqui va el token del bot
 API_ID =  12168140 #Tu api id de telegram
 API_HASH = '3504ce0eddb7dff4288d05d5e3dc5e4c' #Tu api id de telegram
 SPLIT_FILE = 1024 * 1024 * int(os.environ.get('split_file','99'))
