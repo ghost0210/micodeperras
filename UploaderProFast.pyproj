@@ -41,7 +41,6 @@
     <Compile Include="pydownloader\megacli\_.py" />
     <Compile Include="pydownloader\tltdownloader.py" />
     <Compile Include="pydownloader\utils.py" />
-    <Compile Include="pydownloader\youtube.py" />
     <Compile Include="rarfile.py" />
     <Compile Include="root\readme.txt">
       <SubType>Code</SubType>
@@ -67,7 +66,6 @@
     <Content Include="pydownloader\__pycache__\googledrive.cpython-37.pyc" />
     <Content Include="pydownloader\__pycache__\mediafire.cpython-37.pyc" />
     <Content Include="pydownloader\__pycache__\utils.cpython-37.pyc" />
-    <Content Include="pydownloader\__pycache__\youtube.cpython-37.pyc" />
     <Content Include="requirements.txt" />
     <Content Include="resp.json" />
     <Content Include="thumb.png" />
